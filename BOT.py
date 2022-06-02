@@ -431,8 +431,6 @@ async def leave(ctx):
 
 #commande qui permet d'afficher la meteo demander
 
-api_key_meteo = "9c561e1b44c135e7bb53f3d8e4fb69ca"
-base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
 @bot.command()
