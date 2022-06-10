@@ -1,3 +1,10 @@
+<p align="center">
+    <img width= "50%" src = "imgReadme.png">
+</p>
+
+
+
+
 <h1>Projet Python</h1>
 
 <h2>But du projet</h2>
