@@ -2,9 +2,6 @@
     <img width= "50%" src = "imgReadme.png">
 </p>
 
-
-
-
 <h1>Projet Python</h1>
 
 <h2>But du projet</h2>
@@ -22,16 +19,18 @@
 <li>Une commande de retour en arrière si on a fait le mauvais choix
 <li>Une commande de reset pour recommencer la conversation
 <li>Une commande permettant d’appeler un modérateur pour avoir de l’aide
+</ul>
 
 <span>Le stockage de l’avancée et des choix de l’utilisateurs : </span>
 
+<ul>
 <li>Il faudra un moyen de stocker les choix de conversation possible
 <li>Il faudra un moyen de stocker l’avancée de chaque utilisateur dans la conversation avec le bot 
 </ul>
 
 <h2>Guide</h2>
 
-<h3>Installer les pip:</h3>
+<h3>Installer dans votre terminal:</h3>
 
 <span>discord.py</span></br>
 <span>giphy-client</span></br>
