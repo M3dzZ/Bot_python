@@ -1,5 +1,5 @@
 <p align="center">
-    <img width= "50%" src = "imgReadme.png">
+    <img width= "50%" src = "./imgReadme/imgReadme.png">
 </p>
 
 <h1>Projet Python</h1>
